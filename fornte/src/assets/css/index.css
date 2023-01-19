@@ -1,0 +1,7 @@
+.seid{
+    display: flex;
+    justify-content: space-around;
+}
+.seid img{
+    width: 100%;
+}

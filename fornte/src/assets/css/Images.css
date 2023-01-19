@@ -1,0 +1,23 @@
+.Image_styles{
+    position: relative;
+}
+.Image_styles img{
+    height: 500px;
+    object-fit: cover;
+}
+.Image_styles  p {
+    position: absolute;
+    top: 32px;
+    left: 25px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+.Image_styles p:nth-of-type(3n+3) {
+    position: absolute;
+    bottom: 50px;
+    left: 13px
+}
+.Images{
+    margin-top: 1rem !important;
+}

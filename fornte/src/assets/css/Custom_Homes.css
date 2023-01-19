@@ -1,0 +1,32 @@
+.Custom-Home-Builder_text {
+    text-align: center;
+}
+
+.Custom-Home-Builder_text h1 {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.Custom_home{
+    margin-top: 4rem !important;
+}
+.Custom-Home-Builder_text p {
+    width: 35%;
+    font-size: 14px;
+    margin-left: 34rem !important;
+    margin-top: 1rem !important;
+    margin-bottom: 10px !important;
+}
+.Custom-Home-Builder_text span a{
+    color: #24252B;
+    font-size: 17px;
+    font-weight: bold;
+}
+.Custom_home img{
+    width: 92%;
+    object-fit: cover;
+    margin-left: 4rem !important;
+    margin-top: 1rem !important;
+    height: 554px;
+    margin-bottom: 5rem !important;
+}

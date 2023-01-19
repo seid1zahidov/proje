@@ -1,0 +1,39 @@
+
+.About_text-center{
+    margin-top: 5rem !important;
+}
+.About_text-center h5{
+    font-size: 33px;
+    font-weight: bold;
+}
+.About_images_styles{
+    position: relative;
+   
+}
+.About_images_styles img{
+    margin-top: 2rem !important;
+    height: 300px;
+    object-fit: cover;
+}
+.About_images_styles h6{
+    position: absolute;
+    top: 142px;
+    left:85px;
+    color: #252525;
+    font-size: 30px;
+}
+.About_images_styles p{
+    position: absolute;
+    top: 202px;
+    left:45px;
+    color: #252525;
+    font-size: 15px;
+}
+.About_images_styles img{
+    opacity: 0.01;
+}
+.About_images_styles :hover{
+    opacity: .9;
+    transition: .5s;
+}
+.About_images_styles :hover{}

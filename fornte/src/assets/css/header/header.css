@@ -1,0 +1,43 @@
+header{
+    margin-top: 10px;
+}
+.logo-right-line{
+    border-right: 1px solid #E0E1E1;
+    margin-top: 15px !important;
+    display: inline-block;
+    left: 13rem;
+    position: absolute;
+    height: 35px;
+    padding-top: 10px;
+}
+.Navbar_Text{
+    margin-left: 50px !important;
+    gap: 30px;
+    margin-top: 15px !important;
+    
+}
+.Navbar_Text li{
+    padding: 20px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 15px;
+}
+.Navbar-right span{
+    font-size: 15px;
+}
+.Navbar-right span a{
+    text-decoration: none;
+    color: orange;
+}
+.Navbar_right_Links li a{
+    padding: 5px;
+    font-size: 12px;
+    color:  rgba(36, 37, 43, 0.4);
+}
+.Navbar-right select{
+    margin-top: -1.2rem;
+    border: 1px solid silver;
+}
+.Navbar_right_Links{
+    gap: 10px;
+}
